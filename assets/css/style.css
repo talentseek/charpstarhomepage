@@ -8,6 +8,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+
+
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -30,6 +34,15 @@ h1, h2, h3, h4, h5, h6 {
 video {
   width: 100%;
   height: auto;
+  margin: 0;
+  padding: 0;
+  background-color:#D5D5D5;
+}
+
+#videoborder {
+  background-color:#D5D5D5;
+    margin: 0;
+  padding: 0;
 }
 
 /*--------------------------------------------------------------
